@@ -1,0 +1,11 @@
+--- AI Diagnosis Report ---
+Reported Symptoms:
+The rashes on my skin are not healing. Moreover, I have noticed a sudden peeling of the skin, especially the skin on my elbows and knees. I am really worried about this.
+
+
+Predicted Disease: Psoriasis
+Top 5 Treatments:
+Symptoms often worsen during winter and with certain medications, such as beta blockers or NSAIDs. Infections and psychological stress can also play a role., There is no known cure for psoriasis, but various treatments can help control the symptoms., These treatments include steroid creams, vitamin D3 cream, ultraviolet light, immunosuppressive drugs, such as methotrexate, and biologic therapies targeting specific immunologic pathways., There is no firm evidence regarding the best management for guttate psoriasis; however, first-line therapy for mild guttate psoriasis typically includes topical corticosteroids., Phototherapy can be used for moderate or severe guttate psoriasis.
+
+Disclaimer:
+This tool does not replace professional medical advice.
