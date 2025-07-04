@@ -153,7 +153,7 @@ This tool is for **educational and clinical decision support** only. It **does n
 
 ## 📬 Contact
 
-Created by **\[Your Name]**
+Created by **\{Muhammad ZUhaib]**
 📧 Email: zohaibrajput0311@gmail.com
 🔗 GitHub: https://github.com/Zuhaib23
 
