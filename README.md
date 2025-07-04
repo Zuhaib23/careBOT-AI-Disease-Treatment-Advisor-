@@ -1,4 +1,4 @@
-# 🩺 AI Disease & Treatment Advisor — **careBOT**
+# 🩺**careBOT** — AI Disease & Treatment Advisor 
 
 > **An intelligent clinical assistant built with Machine Learning and NLP to analyze symptoms, predict possible diseases, and recommend categorized treatments.**
 
